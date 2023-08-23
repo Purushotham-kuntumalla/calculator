@@ -84,7 +84,7 @@ function clr(){
 
 
 result.style.textAlign = 'center'
-result.style.color = 'green'
+result.style.color = 'color'
 result.style.fontFamily = 'verdana'
 
 

@@ -1,4 +1,9 @@
-
+body{
+    
+    backdrop-filter: blur(10px);
+    filter: blur(200%);
+   background: linear-gradient( to left   , #039fbe , #1566DD, #7788BB ,#8A33FD, #fff);
+}
 
 button{
     background-color: black;
@@ -10,6 +15,7 @@ button{
     border-radius: 10px;
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 
